@@ -106,6 +106,7 @@
 .taglist:hover {
   border: 1px solid #009688;
 }
+/*asas*/
 @media (max-width: 978px) {
   .container-fluid .rowhd .colhd {
     padding: 0;
