@@ -56,3 +56,20 @@ color-grey = #999
 .padding10-left{padding-left:10px;}
 
 .tag{color:#757575;background:#fff;padding:5px;border:1px #ddd solid}
+
+  @media (max-width: 978px) {
+    .container-fluid .rowhd .colhd {
+      padding:0;
+      margin:0;
+    }
+
+    body {
+      padding:0;
+    }
+
+    .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom:0;
+    }
+}
