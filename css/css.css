@@ -107,7 +107,7 @@
   border: 1px solid #009688;
 }
 @media (max-width: 978px) {
-  .container-fluid .row .col {
+  .container-fluid .rowhd .colhd {
     padding: 0;
     margin: 0;
   }
