@@ -123,15 +123,10 @@
     margin-bottom: 0;
   }
 }
-p {
+.art {
   font-size: 17px;
-  font-family: 'Source Serif Pro', serif;
-  text-align: left;
-  padding-left: 15px;
-  padding-right: 15px;
+  font-family: 'Source Serif Pro',;
 }
 h5 {
   font-family: 'Source Serif Pro';
-  padding-left: 15px;
-  padding-right: 15px;
 }
