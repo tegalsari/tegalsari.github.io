@@ -93,7 +93,7 @@ ga('send', 'pageview');
   <header id="top">
   <nav class="white">
     <div class="nav-wrapper">
-      <a href="https://www.agrohorti.com" class="brand-logo waves-effect grey-text"><img src="https://www.agrohorti.com/img/text-logo.png" width="100%" style="margin-top:13px;"></a>
+      <a href="https://www.agrohorti.com" class="brand-logo waves-effect grey-text"><img src="https://www.agrohorti.com/img/logoo.png" width="100%" style="margin-top:13px;"></a>
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="fa fa-bars grey-text"></i></a>
       <ul class="right hide-on-med-and-down">
         
@@ -119,7 +119,7 @@ ga('send', 'pageview');
         <!-- User -->
         <li>
           <div class="user-view">
-          <h3 class="grey-text"> <img src="https://www.agrohorti.com/img/text-logo.png" width="100%">
+          <h3 class="grey-text"> <img src="https://www.agrohorti.com/img/logoo.png" width="100%">
         </li>
         
         <li><a class="blog-nav-item" href="/">Home</a></li>
@@ -283,7 +283,30 @@ Simak juga artikel menarik di Agrohorti</center></p>
         <div class="col l4 s12">
           <aside id="sidebar">
   
-    
+    <div class="carousel carousel-slider center">
+    <div class="carousel-fixed-item center">
+      <a class="btn waves-effect white grey-text darken-text-2">Galeri</a>
+    </div>
+    <div class="carousel-item red white-text" href="#one!" style="background-image:url('https://www.agrohorti.com/img/slide1.jpg')">
+      <h2>First Panel</h2>
+      <p class="white-text">Hasil Panen Tomat Jenis Topas</p>
+    </div>
+    <div class="carousel-item amber white-text" href="#two!" style="background-image:url('https://www.agrohorti.com/teknologi/blockchain-hara-untuk-pertanian/blockchain-hara-untuk-pertanian.jpg')">
+      <h2>Second Panel</h2>
+      <p class="white-text">Perkembangan Teknologi pada Pertanian</p>
+    </div>
+    <div class="carousel-item green white-text" href="#three!" style="background-image:url('https://www.agrohorti.com/img/slide2.jpg')">
+      <h2>Third Panel</h2>
+      <p class="white-text">Bibit Tomat</p>
+    </div>
+    <div class="carousel-item blue white-text" href="#four!" style="background-image:url('https://www.agrohorti.com/img/slide3.jpg')">
+      <h2>Fourth Panel</h2>
+      <p class="white-text">Bibit Cabai Hibrida</p>
+    </div>
+  </div>
+        
+
+
   <div class="collection with-header" style="border:#ccc 1px solid;border-radius: 5px">
   <div class="collection-header"><big class="greydark1"><i class="fa fa-history"></i> Post Terbaru </big> </div>
     
@@ -341,6 +364,10 @@ Simak juga artikel menarik di Agrohorti</center></p>
 			
 		
 			
+				<a href="/tags/teknologi-pertanian/" title="teknologi pertanian"><li class="taglist">#teknologi pertanian</li></a>
+			
+		
+			
 				<a href="/tags/budidaya/" title="budidaya"><li class="taglist">#budidaya</li></a>
 			
 		
@@ -370,10 +397,6 @@ Simak juga artikel menarik di Agrohorti</center></p>
 		
 			
 				<a href="/tags/tanah/" title="tanah"><li class="taglist">#tanah</li></a>
-			
-		
-			
-				<a href="/tags/teknologi-pertanian/" title="teknologi pertanian"><li class="taglist">#teknologi pertanian</li></a>
 			
 		
 		</ul>
@@ -485,6 +508,10 @@ $( document ).ready(function(){
 $(".button-collapse").sideNav();
 })
 ;
+  $('.carousel.carousel-slider').carousel({
+    fullWidth: true,
+    indicators: true
+  });
 </script>
   </div>
 </body>
