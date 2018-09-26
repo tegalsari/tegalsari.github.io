@@ -1,46 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.agrohorti.com/Pertanian/pengembangan-pertanian-organik/</loc>
-    
-    <lastmod>2018-08-05T00:46:44.949Z</lastmod>
-    
+    <loc>https://www.agrohorti.com/menjadi-entreprenuer-sedjati/</loc>
+    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.agrohorti.com/Pertanian/faktor-faktor-yang-mempengaruhi-perkembangan-akar-tanaman/</loc>
-    
-    <lastmod>2018-08-05T00:45:57.393Z</lastmod>
-    
+    <loc>https://www.agrohorti.com/faktor-perkembangan-akar/</loc>
+    <lastmod>2018-09-19T22:14:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.agrohorti.com/Pertanian/budidaya-terong/</loc>
-    
-    <lastmod>2018-08-05T00:45:29.097Z</lastmod>
-    
+    <loc>https://www.agrohorti.com/perkembangan-pertanian-organik-di-indonesia/</loc>
+    <lastmod>2018-09-15T10:46:22+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.agrohorti.com/Pertanian/penyebab-rusaknya-tanah/</loc>
-    
-    <lastmod>2018-08-05T00:45:04.564Z</lastmod>
-    
+    <loc>https://www.agrohorti.com/majukan-pertanian-melalui-teknologi-blockchain-hara/</loc>
+    <lastmod>2018-09-15T10:42:35+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.agrohorti.com/teknologi/blockchain-hara-untuk-pertanian/</loc>
-    
-    <lastmod>2018-07-31T16:45:58.524Z</lastmod>
-    
+    <loc>https://www.agrohorti.com/fenomena-es-di-dieng/</loc>
+    <lastmod>2018-09-15T10:09:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.agrohorti.com/alam/fenomena-es-di-dieng/</loc>
-    
-    <lastmod>2018-07-30T17:39:10.627Z</lastmod>
-    
+    <loc>https://www.agrohorti.com/</loc>
+    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/tags/blockchain/</loc>
+    <lastmod>2018-09-15T10:42:35+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/tags/nutrisi-akar/</loc>
+    <lastmod>2018-09-19T22:14:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/tags/organik/</loc>
+    <lastmod>2018-09-19T22:14:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/tags/pertanian/</loc>
+    <lastmod>2018-09-19T22:14:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/topik/pertanian/</loc>
+    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/post/</loc>
+    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/tags/python/</loc>
+    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/tags/</loc>
+    <lastmod>2018-09-15T10:42:35+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/tags/teknologi/</loc>
+    <lastmod>2018-09-15T10:42:35+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.agrohorti.com/topik/</loc>
+    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
