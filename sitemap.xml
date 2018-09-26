@@ -1,96 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nuro.github.io/menjadi-entreprenuer-sedjati/</loc>
-    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
+    <loc>https://www.agrohorti.com/Pertanian/pengembangan-pertanian-organik/</loc>
+    
+    <lastmod>2018-08-05T00:46:44.949Z</lastmod>
+    
   </url>
   
   <url>
-    <loc>https://nuro.github.io/faktor-perkembangan-akar/</loc>
-    <lastmod>2018-09-19T22:14:36+07:00</lastmod>
+    <loc>https://www.agrohorti.com/Pertanian/faktor-faktor-yang-mempengaruhi-perkembangan-akar-tanaman/</loc>
+    
+    <lastmod>2018-08-05T00:45:57.393Z</lastmod>
+    
   </url>
   
   <url>
-    <loc>https://nuro.github.io/perkembangan-pertanian-organik-di-indonesia/</loc>
-    <lastmod>2018-09-15T10:46:22+07:00</lastmod>
+    <loc>https://www.agrohorti.com/Pertanian/budidaya-terong/</loc>
+    
+    <lastmod>2018-08-05T00:45:29.097Z</lastmod>
+    
   </url>
   
   <url>
-    <loc>https://nuro.github.io/majukan-pertanian-melalui-teknologi-blockchain-hara/</loc>
-    <lastmod>2018-09-15T10:42:35+07:00</lastmod>
+    <loc>https://www.agrohorti.com/Pertanian/penyebab-rusaknya-tanah/</loc>
+    
+    <lastmod>2018-08-05T00:45:04.564Z</lastmod>
+    
   </url>
   
   <url>
-    <loc>https://nuro.github.io/fenomena-es-di-dieng/</loc>
-    <lastmod>2018-09-15T10:09:31+07:00</lastmod>
+    <loc>https://www.agrohorti.com/teknologi/blockchain-hara-untuk-pertanian/</loc>
+    
+    <lastmod>2018-07-31T16:45:58.524Z</lastmod>
+    
   </url>
   
   <url>
-    <loc>https://nuro.github.io/</loc>
-    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/tags/blockchain/</loc>
-    <lastmod>2018-09-15T10:42:35+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/tags/nutrisi-akar/</loc>
-    <lastmod>2018-09-19T22:14:36+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/tags/organik/</loc>
-    <lastmod>2018-09-19T22:14:36+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/tags/pertanian/</loc>
-    <lastmod>2018-09-19T22:14:36+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/topik/pertanian/</loc>
-    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/post/</loc>
-    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/tags/python/</loc>
-    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/tags/</loc>
-    <lastmod>2018-09-15T10:42:35+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/tags/teknologi/</loc>
-    <lastmod>2018-09-15T10:42:35+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nuro.github.io/topik/</loc>
-    <lastmod>2018-09-21T15:54:42+07:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.agrohorti.com/alam/fenomena-es-di-dieng/</loc>
+    
+    <lastmod>2018-07-30T17:39:10.627Z</lastmod>
+    
   </url>
   
 </urlset>
