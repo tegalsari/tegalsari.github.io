@@ -19,3 +19,31 @@
 .post-content img {
     max-width: 100%;
 }
+
+/*  1. Theme default CSS
+/*----------------------------------------*/
+.banner {
+	margin-top: -30px;
+  /*position: relative;*/
+  width: 100%;
+  min-height: 400px;
+  background: url('https://oloskythebrand.com/wp-content/uploads/2018/05/agriculture.jpg');
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner:after {
+  content: '';
+	position: relative;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	/*background-image: linear-gradient(to bottom right,#002f4b,#dc4225);*/
+	opacity: 0.6; 
+}
+.banner__content {
+  position: relative;
+  z-index: 10;
+}
