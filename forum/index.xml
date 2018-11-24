@@ -41,9 +41,11 @@ mohon bantuan suport nya agar sya bisa berbagi ilmu membuat vidio tutorial tebar
 trimakasih sbelumnya dan salam lele jaya.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;video class=&#34;embed-responsive embed-responsive-16by9&#34; controls&gt;
-  &lt;source class=&#34;embed-responsive-item&#34; src=&#34;https://video.fsub1-1.fna.fbcdn.net/v/t42.9040-2/46653573_932645280275671_4685555345634885632_n.mp4?_nc_cat=108&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&amp;_nc_ht=video.fsub1-1.fna&amp;oh=e86b4a6bc5f1f963d9f98f1a15dbf759&amp;oe=5BF907CD&#34; allowfullscreen &gt;&lt;/source&gt;
-&lt;/video&gt;
+&lt;p&gt;&lt;div align=&#34;center&#34; class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;video controls loop class=&#34;embed-responsive-item&#34;&gt;
+        &lt;source src=&#34;https://video.fsub1-1.fna.fbcdn.net/v/t42.9040-2/46653573_932645280275671_4685555345634885632_n.mp4?_nc_cat=108&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&amp;_nc_ht=video.fsub1-1.fna&amp;oh=e86b4a6bc5f1f963d9f98f1a15dbf759&amp;oe=5BF907CD&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
 &lt;/span&gt;
 &lt;hr&gt;
 &lt;span class=&#34;lst-group-item lst-group-item-action&#34; style=&#34;font-size: 14px&#34;&gt;
