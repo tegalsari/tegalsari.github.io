@@ -120,7 +120,7 @@ Kotoran lele akan berubah menjadi gumpalan-gumpalan kecil yang mana sebenarnya m
         &lt;source src=&#34;https://www.agrohorti.com/video/lele3.mp4&#34; type=&#34;video/mp4&#34;&gt;
     &lt;/video&gt;
 &lt;/div&gt; &lt;!-- Video --&gt;
-&lt;video id=&#34;my-video&#34; class=&#34;video-js&#34; controls preload=&#34;auto&#34; data-setup=&#34;{}&#34;&gt;
+&lt;video id=&#34;my-video&#34; class=&#34;video-js&#34; controls preload=&#34;auto&#34; data-setup=&#34;{}&#34; style=&#34;width: 100%&#34;&gt;
     &lt;source src=&#34;https://www.agrohorti.com/video/lele3.mp4&#34; type=&#39;video/mp4&#39;&gt;
     &lt;p class=&#34;vjs-no-js&#34;&gt;
       To view this video please enable JavaScript, and consider upgrading to a web browser that
