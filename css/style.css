@@ -47,3 +47,5 @@
   position: relative;
   z-index: 10;
 }
+
+.border-tag{border-radius: 100px}
